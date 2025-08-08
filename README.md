@@ -1,4 +1,4 @@
 # Sanchita_demo
-Author: Sanchita Pawar
-Collage: GHRCEM
+Author: Sanchita Pawar<br>
+Collage: GHRCEM<br>
 This is my first Github repo
